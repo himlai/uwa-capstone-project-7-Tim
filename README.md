@@ -1,12 +1,5 @@
 # Project Title
 
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
-
 ## About <a name = "about"></a>
 
 This is the individual repository for UWA Capstone Project Group 7 : Machine Learning Estimation of In-Patient Metrics. This project aims to determine if machine learning can be applied to Australian healthcare problems.
